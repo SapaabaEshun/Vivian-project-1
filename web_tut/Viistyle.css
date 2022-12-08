@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(180, 170, 159);
+    margin-left: 40px;
+    
+}
+.name{
+    width: 165px;
+    line-height: 20px;
+
+}
+#Header h1{
+    text-align: center;
+}
+#tv-show{
+    color: black;
+    text-align: margin-left;
+}
+#Header h2{
+    line-height: 20px;
+}
